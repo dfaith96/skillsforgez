@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://skillsforgez.com/sitemap.xml
+Sitemap: https://skillsforz.com/sitemap.xml
